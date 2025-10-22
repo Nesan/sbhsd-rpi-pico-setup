@@ -1,0 +1,7 @@
+To set up a raspberry pi pico
+
+1. Hold the BootSel button while plugging the pico into your computer via USB.
+2. Copy the .uf2 file to the RPI-RP2 drive that appears.
+3. The pico should restart (manually restart if necessary)
+4. Copy the files in "starting-files" to the pico
+5. Verify that the pico blinks once a second as verification that it worked
